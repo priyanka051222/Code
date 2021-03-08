@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+}
+
+.button-section {
+  display: block;
+  position: absolute;
+  bottom: 0;
+}
+
+.Stepper {
+  height: 300px;
+  width: 300px;
+  border: 1px solid black;
+}
+
+.highlight {
+  color: blue;
+  display: inline;
+  margin-right: 20px;
+}
+
+.unhighlight {
+  color: red;
+  display: inline;
+  margin-right: 20px;
+}
+
+.Label {
+  color: red;
+  display: inline;
+  margin-right: 20px;
+}
